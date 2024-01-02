@@ -1,5 +1,0 @@
-{"email": "a@b.com", "subject": "Mathematics", "message": "Square Root"}
-{"email": "t@c.com", "subject": "Big Data Analytics", "message": "Big Data"}
-{"email": "ab@b.com", "subject": "Mathematics", "message": "Maths"}
-{"email": "abc@b.com", "subject": "Big Data Analytics", "message": "BDA"}
-{"email": "abc@ab.com", "subject": "Big Data Analytics", "message": "Data Analytics"}
