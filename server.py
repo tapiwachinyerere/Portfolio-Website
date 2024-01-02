@@ -11,7 +11,7 @@ def html_page(page_name):
     return render_template(page_name)
 
 def write_to_file(data):
-    with open('venv/database.txt', 'a') as database:
+    with open('database.txt', 'a') as database:
         database.write(f'{json.dumps(data)}\n')
 
 @app.route('/submit_form', methods=['POST', 'GET'])
